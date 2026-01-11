@@ -1,8 +1,6 @@
 #  InventX – Inventory Management System (MERN Stack)
 
-[![Frontend – Vercel](https://vercelbadge.vercel.app/api/bhargavzz/InventX)](https://inventx-alpha.vercel.app)
-[![Backend – Render](https://img.shields.io/badge/Backend-Live-green?style=flat&logo=render)](https://inventx-backend-g2tg.onrender.com/api/health)
-[![Backend Deployment Status](https://github.com/Bhargavzz/InventX/actions/workflows/deploy-backend.yml/badge.svg)](https://github.com/Bhargavzz/InventX/actions/workflows/deploy-backend.yml)
+
 
 
 
@@ -228,10 +226,5 @@ Access application at: `http://localhost:3000`
 
 ---
 
-##  Author
-**Sitra Vishnu Bhargav**  
-Final-year CSE, IIIT Jabalpur  
-[GitHub](https://github.com/Bhargavzz) • [LinkedIn](https://linkedin.com/in/bhargavzz)
 
----
 
