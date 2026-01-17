@@ -166,7 +166,7 @@ REACT_APP_BACKEND_URL=http://localhost:5000
 
 ### 1. Clone Repository
 ```bash
-
+https://github.com/ChaitranKore/inventory123.git
 ```
 
 ### 2. Install Dependencies
